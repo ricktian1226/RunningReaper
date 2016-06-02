@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FingerRun2D.CSharp.Plugins", "FingerRun2D.CSharp.Plugins.csproj", "{BA36796C-64EF-D08A-433A-0BAF6AC41401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FingerRun2D.CSharp", "FingerRun2D.CSharp.csproj", "{B3FD6B3C-B92E-6132-73DA-E875B87CDF18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FingerRun2D.CSharp.Editor.Plugins", "FingerRun2D.CSharp.Editor.Plugins.csproj", "{EF7FB662-EF3B-73BB-41AE-969D7F25162D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA36796C-64EF-D08A-433A-0BAF6AC41401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA36796C-64EF-D08A-433A-0BAF6AC41401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA36796C-64EF-D08A-433A-0BAF6AC41401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA36796C-64EF-D08A-433A-0BAF6AC41401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3FD6B3C-B92E-6132-73DA-E875B87CDF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FD6B3C-B92E-6132-73DA-E875B87CDF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FD6B3C-B92E-6132-73DA-E875B87CDF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FD6B3C-B92E-6132-73DA-E875B87CDF18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF7FB662-EF3B-73BB-41AE-969D7F25162D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7FB662-EF3B-73BB-41AE-969D7F25162D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7FB662-EF3B-73BB-41AE-969D7F25162D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7FB662-EF3B-73BB-41AE-969D7F25162D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
